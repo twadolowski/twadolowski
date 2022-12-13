@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @twadolowski
-- 👀 I’m interested in computer networks and aviation
-- 🌱 I’m currently learning for Cisco networking certifications
-- 💞️ I’m looking to collaborate on the field of computer networks
-- 📫 Reach me at thomas@wadolowski.engineer
 
 ![carbon_TW](https://user-images.githubusercontent.com/56031022/207436919-77a3c405-577d-44ab-9d6a-fab9d27aad82.png)
 
