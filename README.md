@@ -5,6 +5,8 @@
 
   [![HitCount](https://hits.dwyl.com/twadolowski/twadolowski.svg?style=flat-square)](http://hits.dwyl.com/twadolowski/twadolowski)
   
+    [![HitCount](https://hits.dwyl.com/twadolowski/{project}.svg?style=flat)](http://hits.dwyl.com/twadolowski/{project})
+  
 <!---
 twadolowski/twadolowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
